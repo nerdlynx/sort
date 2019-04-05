@@ -33,7 +33,7 @@ class StartArray
         }
         else
         {
-            Console.WriteLine("Добовление закончен. Массив содержит " + startArray.Count + " эллементов ");
+            Console.WriteLine("Добавление закончено. Массив содержит " + startArray.Count + " элементов ");
             string arrayPrint = "{";
             for (int i = 0; i < startArray.Count; i++)
             {
